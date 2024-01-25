@@ -1,0 +1,64 @@
+{
+  "preferencias": {
+    "filmes": [
+      {
+        "titulo": "Os outros",
+        "ano_lancamento": 2001,
+        "elenco": "Nicole Kidman, Alakina Mann, James Bentley, Fionnula Flanagan, Elaine Cassidy",
+        "tipo": "Aventura",
+        "sinopse": "Durante a 2ª Guerra Mundial, Grace (Nicole Kidman) decide por se mudar, juntamente com seus dois filhos, para uma mansão isolada na ilha de Jersey, a fim de esperar que seu marido retorne da guerra. Como seus filhos possuem uma estranha doença que os impedem de receber diretamente a luz do sol, a casa onde vivem está sempre em total escuridão. Eles vivem sozinhos seguindo religiosamente certas regras, como nunca abrir uma porta sem fechar a anterior, mas quando eles contratam empregados para a casa eles terminam quebrando estas regras, fazendo com que imprevisíveis consequências ocorram."
+      },
+      {
+        "titulo": "Jogos Vorazes",
+        "ano_lancamento": 2012,
+        "elenco": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Stanley Tucci, Lenny Kravitz",
+        "tipo": "Fantasia",
+        "sinopse": "Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual - e mortal - entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen (Jennifer Lawrence) se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark (Josh Hutcherson), desafiando não só o sistema dominante, mas também a força dos outros oponentes."
+      },
+      {
+        "titulo": "Questão de tempo",
+        "ano_lancamento": 2013,
+        "elenco": "Rachel McAdams, Domhnall Gleeson, Margot Robbie, Bill Nighy",
+        "tipo": "Drama",
+        "sinopse": "Ao completar 21 anos, Tim (Domhnall Gleeson) é surpreendido com a notícia dada por seu pai (Bill Nighy) de que pertence a uma linhagem de viajantes no tempo. Ou seja, todos os homens da família conseguem viajar para o passado, bastando apenas ir para um local escuro e pensar na época e no local para onde deseja ir. Cético a princípio, Tim logo se empolga com o dom ao ver que seu pai não está mentindo. Sua primeira decisão é usar esta capacidade para conseguir uma namorada, mas logo ele percebe que viajar no tempo e alterar o que já aconteceu pode provocar consequências inesperadas."
+      }
+    ],
+    "livros": [
+      {
+        "titulo": "Admiravel Mundo Novo",
+        "autor": "Aldous Huxley",
+        "ano_lancamento": 1998,
+        "tipo": "Fantasia",
+        "numero_paginas": 256
+      },
+      {
+        "titulo": "A basilica de São Pedro",
+        "autor": "R. A. Scotti",
+        "ano_lancamento": 2007,
+        "tipo": "História, Arquitetura",
+        "numero_paginas": 332
+      },
+      {
+        "titulo": "A guerra dos tronos",
+        "autor": "George R. R. Martin",
+        "ano_lancamento": 1996,
+        "tipo": "Fantasia",
+        "numero_paginas": 800
+      }
+    ],
+    "comidas": [
+      {
+        "nome": "Sushi",
+        "ingredientes": "arroz, salmão"
+      },
+      {
+        "nome": "Churrasco",
+        "ingredientes": "Carne, pão de alho, chorizo, mandioca"
+      },
+      {
+        "nome": "Ramen",
+        "ingredientes": "missô, molho shoyu, sopa de mirim, molho de ostras, sake, caldo de galinha, macarrão tipo lámen, milho cozido, fatias de lombo suino, cebolinha, fatias de naturo"
+      }
+    ]
+  }
+}
